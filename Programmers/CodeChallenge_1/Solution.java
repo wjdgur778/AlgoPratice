@@ -1,6 +1,10 @@
 package Programmers.CodeChallenge_1;
 
 import java.util.*;
+/*
+2025 프로그래머스 코드챌린지 1차 예선
+지게차와 크레인
+*/
 class Solution {
     class Data{
         int x;
