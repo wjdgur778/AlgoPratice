@@ -38,6 +38,7 @@ public class Main {
         for (int i = 1; i <= N; i++) {
             StringBuilder cur = new StringBuilder(String.valueOf(i));
             size = K - cur.length();
+
             for (int ii = 0; ii < size; ii++) {
                 cur.insert(0, "0");
             }
